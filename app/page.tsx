@@ -16,10 +16,3 @@ function HomePage(){
   )
 }
 export default HomePage;
-
-// px (pixel per inch)
-// % percentage (percentage of the body)
-// png, jpg, jpeg, svg, webp.
-// bg-coverd 
-// theme coustamization color "tailwind.config.ts" mein ja k color k object mein 
-// rm -rf.next // remove, ropefully, command jub  error aye.
